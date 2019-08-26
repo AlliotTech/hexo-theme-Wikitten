@@ -1,6 +1,6 @@
 ---
-title: {{ title }}
-date: {{ date }}
+title: 
+date: 
 toc: true
 tags: 
 categories: 
